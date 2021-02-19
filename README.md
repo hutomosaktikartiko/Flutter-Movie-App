@@ -1,4 +1,4 @@
-# movie_app by Hutomo
+# Movie App
 
 This is open sourcer project, if you want to contribution just contact me on instagram or you can commit on this github repositori.
 
